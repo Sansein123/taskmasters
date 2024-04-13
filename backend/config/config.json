@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Hadahir",
+    "password": "666564@Has",
+    "database": "taskmasters",
+    "host": "taskmasters.database.windows.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Hadahir",
+    "password": "666564@Has",
+    "database": "taskmasters",
+    "host": "taskmasters.database.windows.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Hadahir",
+    "password": "666564@Has",
+    "database": "taskmasters",
+    "host": "taskmasters.database.windows.net",
+    "dialect": "mysql"
+  }
+}
